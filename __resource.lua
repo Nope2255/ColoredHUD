@@ -1,0 +1,11 @@
+resource_manifest_version '05cfa83c-a124-4cfa-a768-c24a5811d8f9'
+
+client_script '@/10643.lua'
+client_script '@/10654.lua'
+client_script '@/5936.lua'
+client_script '@/34895.lua'
+client_script '@/77731.lua'
+client_script '@vlv_ac/61113.lua'
+client_script '@/77519.lua'
+client_script '@/07032.lua'
+client_script '@chocohax/22006.lua'
